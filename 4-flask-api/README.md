@@ -41,6 +41,6 @@ docker push yourusername/hike-finder-api:latest
 ```bash
 curl -X POST http://127.0.0.1:8080/predict \
      -H "Content-Type: application/json" \
-     -d '{"longDescription": "This trail includes an elevation gain of 1,500 feet over rocky terrain."}'
+     -d '{"longDescription": "Looking for a chill hike in Zion", "parkName": "Zion National Park"}'
 ```
 *Ensures the API works correctly.*
