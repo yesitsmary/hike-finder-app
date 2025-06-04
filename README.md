@@ -1,4 +1,4 @@
-# Hike Finder API
+# Hike Finder App
 
 This project is a Flask-based machine learning API that predicts the energy level (mood) of a hiking trail based on its description. It uses a logistic regression model trained on TF-IDF features and an elevation gain indicator.
 
