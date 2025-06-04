@@ -1,8 +1,8 @@
 ## 📁 File Overview
 
-- model.pkl: Trained logistic regression model
-- vectorizer.pkl: Fitted TF-IDF vectorizer
-- hiking_trails.csv: Cleaned and preprocessed dataset
+- `model.pkl`: Trained logistic regression model
+- `vectorizer.pkl`: Fitted TF-IDF vectorizer
+- `hiking_trails.csv`: Cleaned and preprocessed dataset
 
 ## 🧠 Model Overview
 
