@@ -1,11 +1,21 @@
-# Hike Finder App
+# 🏞️ Hike Finder App
 
-This project is a Flask-based machine learning API that predicts the energy level (mood) of a hiking trail based on its description. It uses a logistic regression model trained on TF-IDF features and an elevation gain indicator.
+A machine learning project that recommends hiking trails in U.S. National Parks based on your **mood** (energy level). It combines a Flask API for predictions with a PyShiny app for a clean user interface.
 
-## 🚀 Features
+🔗 **Check out the app:** [yesitsmary.shinyapps.io/hike-finder-app](https://yesitsmary.shinyapps.io/hike-finder-app/)
 
-- Text classification using TF-IDF + Logistic regression
+## 🧪 Features
+
+- Logistic regression trained on TF-IDF + elevation cues
 - Binary flag for elevation gain using regex
-- Flask API to predict mood: Relaxed, Chill, Adventurous, or Challenging
-- Dockerized for easy back-end deployment
-- Shiny app for frond-end deployment
+- Flask API for text-based predictions
+- Dockerized backend for easy deployment
+- Shiny app frontend with dropdowns for energy level and park
+
+## 📁 Folder Structure
+- 1-presentations: Class presentations
+- 2-data: Collection, cleaning, and EDA scripts
+- 3-model: Trained model + vectorizer
+- 4-flask-api: Flask backend with model & prediction endpoint
+- 5-shiny-app: PyShiny frontend interface
+- README.md: You're here!
