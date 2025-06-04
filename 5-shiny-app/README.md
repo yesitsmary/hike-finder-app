@@ -1,6 +1,6 @@
 ## 📁 File Overview
 
-- `shiny_app.py`: Main PyShiny app file with dropdowns for energy level and park location. Sends user input to the Flask API for trail recommendations.
+- `shiny_app.py`: Main PyShiny app file with dropdowns for energy level and park location.
 
 ## 🌐 Shiny Testing & Deploy Instructions
 
