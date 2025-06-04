@@ -2,7 +2,7 @@
 
 A machine learning project that recommends hiking trails in U.S. National Parks based on your **mood** (energy level). It combines a Flask API for predictions with a PyShiny app for a clean user interface.
 
-🔗 **Check out the app:** [yesitsmary.shinyapps.io/hike-finder-app](https://yesitsmary.shinyapps.io/hike-finder-app/)
+🔗 **Check it out:** [yesitsmary.shinyapps.io/hike-finder-app](https://yesitsmary.shinyapps.io/hike-finder-app/)
 
 ## 🧪 Features
 
