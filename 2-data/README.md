@@ -5,12 +5,12 @@
    and stores results in a structured pandas DataFrame.
 
 - `b-data-overview.py`  
-  Provides exploratory insights into the dataset, including trail counts, missing values,  
-  and a breakdown of trail durations and national park frequency.
+  Provides exploratory insights into the dataset, including trail counts, missing values, and a    
+  breakdown of trail durations and national park frequency.
 
 - `c-data-cleaning.py`  
-  Converts duration strings (e.g., half day, 1–2 hours) into numeric minutes  
-  using regular expressions for standardization.
+  Converts duration strings (e.g., half day, 1–2 hours) into numeric minutes using regular expressions    
+  for standardization.
 
 - `d-data-analysis.py`  
   Categorizes trails into energy levels (`Relaxed`, `Chill`, `Adventurous`, `Challenging`) based on    
