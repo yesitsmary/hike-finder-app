@@ -13,9 +13,9 @@ A machine learning project that recommends hiking trails in U.S. National Parks 
 - Shiny app frontend with dropdowns for energy level and park
 
 ## 📁 Folder Structure
-- 1-presentations: Class presentations
-- 2-data: Collection, cleaning, and EDA scripts
-- 3-model: Trained model + vectorizer
-- 4-flask-api: Flask backend with model & prediction endpoint
-- 5-shiny-app: PyShiny frontend interface
-- README.md: You're here!
+- **1-presentations:** Class presentations
+- **2-data:** Collection, cleaning, and EDA scripts
+- **3-model:** Trained model + vectorizer
+- **4-flask-api:** Flask backend with model & prediction endpoint
+- **5-shiny-app:** PyShiny frontend interface
+- **README.md:** You're here!
