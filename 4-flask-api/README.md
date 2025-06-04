@@ -24,13 +24,13 @@ docker build -t hike-finder-api .
 ```bash
 docker run -p 8080:8080 hike-finder-api
 ```
-*Runs the app in a Docker container and makes it accessible at http://localhost:8080*
+*Runs the app in a Docker container and makes it accessible at http://localhost:8080.*
 
 ### 3. Tag and push to Docker Hub (Optional)
 ```bash
 docker tag hike-finder-api yourusername/hike-finder-api:latest
 ```
-*Adds a tag that points to the Docker Hub repository*
+*Adds a tag that points to the Docker Hub repository.*
 
 ```bash
 docker push yourusername/hike-finder-api:latest
