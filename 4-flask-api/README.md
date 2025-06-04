@@ -1,8 +1,8 @@
 ## 📁 File Overview
 
-- app.py: Flask app to serve model
-- requirements.txt: Python dependencies
-- Dockerfile: Docker build instructions
+- `app.py`: Flask app to serve model
+- `requirements.txt`: Python dependencies
+- `Dockerfile`: Docker build instructions
 
 ## 🐳 Docker Build Instructions
 
